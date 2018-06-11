@@ -1372,31 +1372,31 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qUyRNqYCkj {
+.cid-qUHLefp2m1 {
   padding-top: 90px;
   padding-bottom: 120px;
-  background-color: #7f1933;
+  background-color: #55b4d4;
 }
-.cid-qUyRNqYCkj .media-container-column {
+.cid-qUHLefp2m1 .media-container-column {
   align-items: center;
 }
-.cid-qUyRNqYCkj .mbr-author-desc {
+.cid-qUHLefp2m1 .mbr-author-desc {
   display: block;
 }
-.cid-qUyRNqYCkj .mbr-testimonial {
+.cid-qUHLefp2m1 .mbr-testimonial {
   flex-basis: auto;
   margin-top: 5rem;
 }
-.cid-qUyRNqYCkj .mbr-testimonial .panel-item {
+.cid-qUHLefp2m1 .mbr-testimonial .panel-item {
   background-color: #efefef;
   background: linear-gradient(#efefef, transparent);
 }
-.cid-qUyRNqYCkj .mbr-testimonial .card-block {
+.cid-qUHLefp2m1 .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
   padding: 2rem;
 }
-.cid-qUyRNqYCkj .mbr-testimonial .card-block .testimonial-photo {
+.cid-qUHLefp2m1 .mbr-testimonial .card-block .testimonial-photo {
   margin-top: -5rem;
   display: inline-block;
   width: 120px;
@@ -1405,15 +1405,15 @@ body {
   overflow: hidden;
   border-radius: 50%;
 }
-.cid-qUyRNqYCkj .mbr-testimonial .card-block .testimonial-photo img {
+.cid-qUHLefp2m1 .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
   min-width: 100%;
   min-height: 100%;
 }
-.cid-qUyRNqYCkj .mbr-testimonial .card-block p {
+.cid-qUHLefp2m1 .mbr-testimonial .card-block p {
   margin: 0;
 }
-.cid-qUyRNqYCkj .mbr-testimonial .card-footer {
+.cid-qUHLefp2m1 .mbr-testimonial .card-footer {
   padding: 0 2rem 2rem 2rem;
   border-top: 0;
   word-wrap: break-word;
@@ -1421,21 +1421,21 @@ body {
   background: none;
 }
 @media (max-width: 260px) {
-  .cid-qUyRNqYCkj .testimonial-photo {
+  .cid-qUHLefp2m1 .testimonial-photo {
     width: 100% !important;
     height: auto !important;
   }
 }
-.cid-qUyRNqYCkj .mbr-section-subtitle {
+.cid-qUHLefp2m1 .mbr-section-subtitle {
   color: #232323;
 }
-.cid-qUyRNqYCkj H2 {
-  color: #149dcc;
+.cid-qUHLefp2m1 H2 {
+  color: #8c0a2b;
 }
-.cid-qUyRNqYCkj .mbr-section-subtitle B {
+.cid-qUHLefp2m1 .mbr-section-subtitle B {
   color: #f7ed4a;
 }
-.cid-qUyRNqYCkj .mbr-text {
+.cid-qUHLefp2m1 .mbr-text {
   color: #232323;
 }
 .cid-qUoEkWLHAv {
